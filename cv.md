@@ -62,4 +62,5 @@
 **8. Knowledge of languages**
 
 English - A2
+
 *I often travel to different countries, English helps to communicate with people from all over the world. For learning programming, a lot of interesting information can be found in English. Learning English helps both in travel, learning programming and in everyday life.*
