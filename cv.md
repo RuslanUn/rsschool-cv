@@ -1,9 +1,3 @@
-#My CV
-# Unaibayev Ruslan 43 year old
----
-Karaganda city
----
-##Developer
 ![My photo](img/photo.jpg)
 ***
 **1. Name Surname**
