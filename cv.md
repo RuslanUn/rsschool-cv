@@ -6,8 +6,11 @@
  ***
 **2. Contacts:**
 >Karaganda city
+>
 >tel: +7(705)62-88-333
+>
 >e-mail: [rus516815@gmail.com ](https://www.gmail.com)
+>
 >github: [github.com/RuslanUn ](https://github.com/RuslanUn)
 ***
 **3. About me**
