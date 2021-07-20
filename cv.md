@@ -1,5 +1,4 @@
-#My CV
-![My photo](img/photo.jpg)
+![My photo](img/photo.JPG)
 ***
 **1. Name Surname**
  # ***Ruslan Unaibayev***
