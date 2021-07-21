@@ -8,12 +8,16 @@
  ***
 **2. Contacts:**
 >Karaganda city
+>
 >tel: +7(705)62-88-333
+>
 >e-mail: [rus516815@gmail.com ](https://www.gmail.com)
+>
 >github: [github.com/RuslanUn ](https://github.com/RuslanUn)
 
 ***
 **3. About me**
+
 *My main interest in IT is the constantly evolving stack of technologies, which does not stop its development for a minute, which in turn stimulates me to constantly engage in self-development. I love to learn and learn new things. Take classes. The desire to study IT is supported by the desire to realize oneself in this area, and also stimulates the study of the English language.*
 
 ***
@@ -47,6 +51,7 @@
 
 ***
 **6. Work experience**
+
 *I am constantly learning through* ["YouTube"](https://www.youtube.com/), ["METANIT.COM"](https://www.METANIT.COM/) *and other popular resources. I took a 1 month "C" languag course at* ["42 Silicon Valley"](https://www.42.us.org/) *and also took a 1 year ".Net" development course at the* ["Computer Academy STEP IT"](https://itstep.md/).
 
 ***
@@ -64,5 +69,7 @@
 
 ***
 **8. Knowledge of languages**
+
 English - A2
+
 *I often travel to different countries, English helps to communicate with people from all over the world. For learning programming, a lot of interesting information can be found in English. Learning English helps both in travel, learning programming and in everyday life.*
